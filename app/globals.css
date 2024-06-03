@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.social-icon img,
+.social-icon button {
+    width: 36px;
+    height: auto;
+}
+
+.profile-image {
+    object-fit: cover;
+}
